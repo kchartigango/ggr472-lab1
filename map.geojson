@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casa Manila",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.3488783644182,
+                    43.75530024831758
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tinuno",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.37490712130409,
+                    43.6712645727805
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kanto by Tita Flips",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.40483012164641,
+                    43.65215056798607
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wilson's Haus of Lechon",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.4370955469245,
+                    43.73649133633546
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lovely Pao",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.46476795906206,
+                    43.73139480217125
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Islas Filipino BBQ & Bar",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.44455212130347,
+                    43.63936456405031
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sampaguita Village",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43648912130388,
+                    43.73691659076064
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "B's Sizzling Kitchen",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.53702665621351,
+                    43.6038284115196
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#b1b1b1",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "fill": "#e2d1ff",
+                "fill-opacity": 0.4
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.61343502760921,
+                            43.72574249955824
+                        ],
+                        [
+                            -79.54130178555435,
+                            43.59449393635094
+                        ],
+                        [
+                            -79.31549872316315,
+                            43.65091362453893
+                        ],
+                        [
+                            -79.31887224165517,
+                            43.792284354754116
+                        ],
+                        [
+                            -79.61343502760921,
+                            43.72574249955824
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 8
+        }
+    ]
+}

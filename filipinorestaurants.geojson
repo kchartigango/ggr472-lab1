@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BB's Diner",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43241646753523,
+                    43.64200112847655
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jollibee",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.38156411465442,
+                    43.65739961573675
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casa Manila",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.34896603827166,
+                    43.755088054448294
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jesse Jr. Restaurant",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.2750988069669,
+                    43.74913141395314
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kabalen Filipino Restaurant",
+                "marker-color": "#b175e8",
+                "marker-size": "medium",
+                "marker-symbol": "circle"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.43454526442706,
+                    43.73804080251699
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#555555",
+                "stroke-width": 1.9,
+                "stroke-opacity": 1,
+                "fill": "#b175e8",
+                "fill-opacity": 0.2
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -79.6557209068112,
+                            43.77243095063028
+                        ],
+                        [
+                            -79.53602386302259,
+                            43.578915989713664
+                        ],
+                        [
+                            -79.27532684951646,
+                            43.67364891687666
+                        ],
+                        [
+                            -79.13462214134857,
+                            43.7802800079389
+                        ],
+                        [
+                            -79.19891532307643,
+                            43.90985527075179
+                        ],
+                        [
+                            -79.6557209068112,
+                            43.77243095063028
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            },
+            "id": 5
+        }
+    ]
+}
